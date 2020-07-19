@@ -8,4 +8,4 @@ The main goal of this project is to describe one of the socioeconomic impacts of
 In this [link](https://www.prisonersofthecensus.org/data/kml.html) you can download an ''.kml'' file for each state in the USA. Here we can find the name, description, Correctional Population, and the GPS coordinates of each facility. The beautifulsoup library enables us to handle this type of extension.
 The population number is important because a facility with a small number of inmates will be small, and may be unnoticed by the people on that neighborhood, introducing a bias in the study. It is possible that big facilities are constructed farther apart from cities, but if there is any, it will not go unnoticed.
 
-<img src="/images/population.png" width="300" height="100">
+<img src="/images/population.png" width="300" height="200">
