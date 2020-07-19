@@ -9,4 +9,5 @@ In this [link](https://www.prisonersofthecensus.org/data/kml.html) you can downl
 The population number is important because a facility with a small number of inmates will be small, and may be unnoticed by the people on that neighborhood, introducing a bias in the study. It is possible that big facilities are constructed farther apart from cities, but if there is any, it will not go unnoticed.
 
 ![](/images/population.png){:height="50%" width="50%"}
-asa!  asa [](/images/population.png)
+asa!  asa [](/images/population.png) 
+<img src="/images/population.png" width="100" height="100">
