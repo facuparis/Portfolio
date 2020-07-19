@@ -16,4 +16,4 @@ When we analyze each cluster, we see that the violet dots are the prisons with a
 The top 5 biggest cities in the state of Alabama are: Birmingham ,Montgomery ,Mobile ,Huntsville, Tuscaloosa. There is a strong correlation between the city size and the number of venues near a facility. Green dots are in Birmingham,Huntsville and Tuscaloosa. Mobile is the red dot, and In Montgomery there are a lot of facilities but they are far away from the city. 
 
 
-![](/images/prisons.png)
+![](/images/prisonsss.png)
