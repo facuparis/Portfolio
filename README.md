@@ -15,4 +15,4 @@ As the final step of this analysis we apply a machine learning technique to clus
 When we analyze each cluster, we see that the violet dots are the prisons with almost no venues near them, the red dot is the Mobile County Jail that has a medium amount of venues, concentrated in the range of 1000-1200m. The last cluster corresponds to the green dots, which includes Jefferson County Sheriff's Office, Madison County Main Detention Facility and the Tuscaloosa County Jail. These facilities are the ones with the most venues in their surroundings. 
 The top 5 biggest cities in the state of Alabama are: Birmingham ,Montgomery ,Mobile ,Huntsville, Tuscaloosa. There is a strong correlation between the city size and the number of venues near a facility. Green dots are in Birmingham,Huntsville and Tuscaloosa. Mobile is the red dot, and In Montgomery there are a lot of facilities but they are far away from the city. 
 
-![](/image/prisons_image.png)
+![](/image/prisons.png)
