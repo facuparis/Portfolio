@@ -2,7 +2,7 @@
 MSc in Physics Facundo N. Paris
 
 # [Impact of prisons on their surrounding venues](https://github.com/facuparis/Coursera_Capstone)
-The main goal of this project is to describe one of the socioeconomic impacts of prisons: the number of venues in their surroundings. The focus will be to find and describe the influence radius of the prisons in the state of Alabama. Finally, we want to cluster the prisons by the similarities on their influences.(Full report and code click in the title)  
+The main goal of this project is to describe one of the socioeconomic impacts of prisons: the number of venues in their surroundings. The focus will be to find and describe the influence radius of the prisons in the state of Alabama. Finally, we want to cluster the prisons by the similarities on their influences. To read the full report and source code click in the title.  
 
 ### Data Collection 
 In this [link](https://www.prisonersofthecensus.org/data/kml.html) you can download an ''.kml'' file for each state in the USA. Here we can find the name, description, Correctional Population, and the GPS coordinates of each facility. The beautifulsoup library enables us to handle this type of extension.
@@ -24,3 +24,5 @@ In this project I developed a Neural Network Regression model to predict fluid v
 We performed numerous measurements in fluids with different viscosity coefficients and at different temperatures to do a supervised training of the neural network.
 
 The neural network developed for the first 5 seconds of the measurement showed a very good generalization, tested in blood plasma measurements, even in those measurements where the dynamics were altered.
+
+For the full report (in Spanish), click [here](http://ricabib.cab.cnea.gov.ar/758/).
