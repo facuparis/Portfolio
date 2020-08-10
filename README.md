@@ -20,7 +20,6 @@ The top 5 biggest cities in the state of Alabama are: Birmingham ,Montgomery ,Mo
 
 
 
-
 # [Deep learning for the prediction of viscosity in a capillary Microviscometer](https://github.com/facuparis/Red-Neuronal)
 In this project I developed a Neural Network Regression model to predict fluid viscosity from the position vs. time curves provided by the Microviscometer designed by Dr. Morhell and Dr.Pastoriza. The motivation for the network was to solve a problem presented in the measurements when the dynamics of the fluid were altered by the border conditions of the microchannel.
 
