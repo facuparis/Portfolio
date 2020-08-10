@@ -29,3 +29,7 @@ We performed numerous measurements in fluids with different viscosity coefficien
 The neural network developed for the first 5 seconds of the measurement showed a very good generalization, tested in blood plasma measurements, even in those measurements where the dynamics were altered.
 
 For the full report (in Spanish), click [here](http://ricabib.cab.cnea.gov.ar/758/).
+
+
+![](/images/DeepLearningMicroV.png)
+
